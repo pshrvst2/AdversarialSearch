@@ -1,0 +1,4 @@
+Results:
+Player [P1],	score: 397
+Player [P2],	score: 468
+Total game duration: 4796

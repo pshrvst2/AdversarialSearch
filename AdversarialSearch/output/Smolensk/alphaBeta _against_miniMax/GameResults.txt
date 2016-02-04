@@ -1,0 +1,4 @@
+Results:
+Player [P1],	score: 4
+Player [P2],	score: 0
+Total game duration: 29
